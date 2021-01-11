@@ -1,0 +1,7 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(53, 70, 49);
+    padding-left: 20px;
+    padding-top: 10px;
+    color: gainsboro;
+  }

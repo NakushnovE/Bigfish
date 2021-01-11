@@ -1,0 +1,10 @@
+.heading a {
+    color: gainsboro;
+    text-decoration: none;
+}
+.heading {
+    padding-top: 30px;
+}
+.heading a.active {
+    color: cadetblue;
+}

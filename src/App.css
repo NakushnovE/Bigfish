@@ -1,0 +1,37 @@
+.appFish {
+ height: 700px;
+ margin: auto;
+ display: grid;
+ width: auto;
+ grid-template-areas: 
+ "h h h h"
+ "t t t t"
+ "n c c c";
+
+ grid-template-rows: 60px 25px 1fr;
+ grid-template-columns: 130px 8fr;
+ grid-gap: 1px;
+
+}
+
+.appFishCenter {
+ display: grid;
+ grid-area: c;
+ background-color: rgb(53, 70, 49);
+ grid-template-columns:  1fr 1fr;
+}
+
+.a {
+ text-decoration: none;
+ color: white;
+}
+
+
+
+
+  
+
+
+
+
+

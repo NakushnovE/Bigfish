@@ -1,0 +1,12 @@
+.equipment {
+    padding-left: 20px;
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 150px 200fr 1fr;
+
+
+}
+.equipmentNesting {
+    padding-top: 60px;
+}
+

@@ -1,0 +1,15 @@
+.shop a {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.shop h5 {
+    padding-left: 30px;
+}
+.shop h2 {
+    padding-left: 60px;
+}
+
+.shop img {
+    height: 50px;
+}
+
